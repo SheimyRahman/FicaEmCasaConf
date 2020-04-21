@@ -9,9 +9,6 @@ Slides da minha apresentação: https://speakerdeck.com/wdrwoman/number-ficaemca
 Obs: Os arquivos foram inspirados nos originais, contudo, possuem modificacoes e adaptacoes, incluindo a traducao para Portugues-BR.
 
 Para acessar os originais ver: 
-=======
-Para começar nesse mundo maravilhoso do GoCV:
->>>>>>> parent of 392df29... Update README.md
 
 * https://gocv.io/
 
@@ -21,4 +18,4 @@ Para começar nesse mundo maravilhoso do GoCV:
 
 
 
-# FicaEmCasaConf
+# FicaEmCasaConf #VAIII
