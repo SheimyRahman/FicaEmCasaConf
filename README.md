@@ -3,7 +3,6 @@ Apresentação, códigos e demais informações da minha talk sobre Visão Compu
 
 Qualquer dúvida, sinta-se à vontade para enviar perguntas e também colaborar :)
 
-<<<<<<< HEAD
 Slides da minha apresentação: https://speakerdeck.com/wdrwoman/number-ficaemcasaconf-classify-things-in-go-the-easy-way
 
 Obs: Os arquivos foram inspirados nos originais, contudo, possuem modificacoes e adaptacoes, incluindo a traducao para Portugues-BR.
