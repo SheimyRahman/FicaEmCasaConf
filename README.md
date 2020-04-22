@@ -16,5 +16,11 @@ Para acessar os originais ver:
 :)
 
 
+============================================================================================
+
+#### Para ver o Classificador que inclui o modelo do Gopher e da Gopher's butt ver o arquivo tf_classifier
+
+![Gopher's Classifier](https://github.com/SheimyRahman/FicaEmCasaConf/blob/master/images/gopher_with_cat.png)
+
 
 #FicaEmCasaConf #VAIII
