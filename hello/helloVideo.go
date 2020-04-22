@@ -26,3 +26,7 @@ func main() {
 // Traducao para pt-br do original[1]
 // Este exemplo contem algumas modificacoes, mas teve como base o exemplo do tutorial existente em:
 // [1] https://gocv.io/writing-code/
+//
+// Para executar:
+//
+// go run helloVideo.go
