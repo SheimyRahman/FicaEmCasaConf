@@ -12,7 +12,7 @@ import (
 
 func main() {
 	if len(os.Args) < 3 {
-		fmt.Println("How to run:\n\tcrazy_detected [camera ID] [classifier XML file]")
+		fmt.Println("How to run:\n\tcrazy_detect [camera ID] [classifier XML file]")
 		return
 	}
 
@@ -89,3 +89,5 @@ func main() {
 //
 // Esse exemplo detecta feicoes que distinguem um ser humano de outros objetos
 // usando o opencv-cascade-classifier.
+//
+// Como Executar: go run crazy_detect.go 0 haarcascade_frontalface_default.xml
